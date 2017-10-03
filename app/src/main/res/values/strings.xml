@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+
+    <!--Errors-->
+    <string name="badLogin">Bad user name!</string>
+    <string name="badPassword">Incorrect password</string>
+    <string name="badSymbol">Bad symbol! Need use only A-z or 0-9!</string>
+    <string name="notUser">User %s not found!</string>
+    <string name="empty">Cannot be empty!</string>
+
+</resources>
